@@ -18,6 +18,6 @@ Extractive summaries are formed by picking up the most important sentences and p
 5. This [file](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/Dataset_creation.ipynb) contains code to convert the original text data (like .txt files) into a dataframe. 
 
 
-Link to the reseach paper - this paper is currently under review.
+A reseach paper related to the same is currently under review.
 
 
