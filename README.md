@@ -6,6 +6,10 @@ Extractive summaries are formed by picking up the most important sentences and p
 |:--:|
 |*Keyword Sentence Hypergraph*|
 
+The entire NLP pipiline for this project alongwith the calucated results can be found [here](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/all_rouge_final.ipynb). The approach has been represented in the diagram below.  
+
 |![architecture diagram](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/architecture_diag.jpeg)|
 |:--:|
 |*Architecture diagram*|
+
+
