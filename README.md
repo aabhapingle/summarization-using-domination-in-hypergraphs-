@@ -13,3 +13,6 @@ The entire NLP pipiline for this project alongwith the calucated results can be 
 |*Architecture diagram*|
 
 
+Link to the reseach paper - this paper is currently under review.
+
+
