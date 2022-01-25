@@ -6,7 +6,7 @@ Extractive summaries are formed by picking up the most important sentences and p
 |:--:|
 |*Keyword Sentence Hypergraph*|
 
-1. The entire NLP pipiline for this project alongwith the calucated results can be found [here](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/all_rouge_final.ipynb). Results of the same have been published. The method employed is depicted in the diagram below.
+1. The entire NLP pipiline for this project alongwith the calucated results can be found [here](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/all_rouge_final.ipynb). (This is the only file whose results have been published.) The method employed is depicted in the diagram below.
 
 |![architecture diagram](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/architecture_diag.jpeg)|
 |:--:|
@@ -15,9 +15,9 @@ Extractive summaries are formed by picking up the most important sentences and p
 2. Another approach was explored for the creation of hypergraphs. TF-IDF has been used [here](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/tf_idf_%2B_domination.ipynb) to find the keywords and then domination has been applied to the constructed hypergraph.
 3. Hill climbing algorithm has been used [here](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/hill_climbing_%2B_hypergraph_creation.ipynb) to perform sentence clustering and then create a hypergraph using these clusters as edges.
 4. [This](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/file_1.ipynb) code file is an attempt to explore various properties of hypergraph and simulate textrank algorithm.    
-This [file](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/Dataset_creation.ipynb) contains code to convert the original document data (like text files) into a dataframe. 
+5. This [file](https://github.com/aabhapingle/summarization-using-domination-in-hypergraphs-/blob/main/Dataset_creation.ipynb) contains code to convert the original document data (like text files) into a dataframe. 
 
-Note - 
+
 Link to the reseach paper - this paper is currently under review.
 
 
